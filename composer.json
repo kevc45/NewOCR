@@ -1,0 +1,19 @@
+{
+    "name": "kevc45/newocr",
+    "description": "A very simple wrapper for NewOCR.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kevin Cushman",
+            "email": "kevc45@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+    },
+    "autoload": {
+        "psr-0": {
+            "OCR": "src/"
+        }
+    }
+}
