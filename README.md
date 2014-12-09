@@ -12,11 +12,7 @@ Setup is very quick and painless.
 First you must include the main class.
 You can also use composer to do this:
 ```
-{
-    "require": {
-        "project-a/silex-routing": "dev-master"
-    }
-}
+things
 ```
 Now all you need to do is pass your API api to "OCR".
 
