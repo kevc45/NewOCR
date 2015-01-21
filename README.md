@@ -2,9 +2,9 @@
 
 This is a very simple wrapper I made for NewOCR.com
 
-You can get an API key at [http://www.newocr.com/api.php]
+You can get an API key at [http://www.newocr.com/api/]
 
-[http://www.newocr.com/api.php]: http://www.newocr.com/api/
+[http://www.newocr.com/api/]: http://www.newocr.com/api/
 
 ## Setup
 Setup is very quick and painless. 
